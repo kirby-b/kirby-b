@@ -1,5 +1,4 @@
-Hi 👋 My name is Brodie
-<br>Web Developer
+Hi 👋 My name is Brodieand I'm a Web Developer
 <br>I've been coding since my sophomore year of high school and have done the most in Web Development. I am interested in just about everything tech and am trying to learn as much as I can.
 <br>✉️  You can contact me at [kirby.brodie66@gmail.com](mailto:kirby.brodie66@gmail.com)
 <br> 🧠  I'm learning Ruby, Go, and a bit of Machine Learning and Assembly on the side
