@@ -8,7 +8,7 @@ Hi 👋 My name is Brodie and I'm a Software Developer
 <br>🧠  I'm learning Ruby, Godot, and a bit of Machine Learning and Assembly on the side.
 <br>🚀  I'm currently working on building a Robodog and making a platformer in Godot
 <br>🤝  I'm open to collaborating on Websites/Web apps and Python projects of any kind. I will honestly do any projects if you are willing to teach or give me time to learn.
-<br>⚡  I may have an addiction to coding
+<br>⚡  I may have an addiction to technology
 
 ### Skills 
 
