@@ -27,3 +27,5 @@ Hi 👋 My name is Brodie and I'm a Software Developer
 ### My LeetCode Stats
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Kirby-B?ext=activity)](https://leetcode.com/Kirby-B/)
+
+*For more details on me you can go to my website at [kirby-b.github.io](https://kirby-b.github.io/)*
