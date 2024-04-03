@@ -18,6 +18,8 @@ Hi 👋 My name is Brodie and I'm a Software Developer
     
 ### My GitHub Stats
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=kirby-b&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![Kirby-b's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirby-b&count_private=true&show_icons=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage&theme=tokyonight)
 
 <a href="http://www.github.com/kirby-b"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kirby-b&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
