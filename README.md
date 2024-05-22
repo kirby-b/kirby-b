@@ -40,13 +40,4 @@ Hi 👋 My name is Brodie and I'm a Software Developer
 
 </details>
 
-### Support Me
-
-<details>
-    <summary>Click to see sites where you can support me</summary>
-    
-  <a href="https://www.ko-fi.com/kirbyb"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
-
-</details>
-
 *For more details on me you can go to my website at [kirby-b.github.io](https://kirby-b.github.io/)*
