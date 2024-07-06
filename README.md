@@ -41,3 +41,5 @@ Hi 👋 My name is Brodie and I'm a Software Developer
 </details>
 
 *For more details on me you can go to my website at [kirby-b.github.io](https://kirby-b.github.io/)*
+
+*You can also see all my links at [kirby-b.github.io/Custom-Links-Page](https://kirby-b.github.io/Custom-Links-Page/)*
