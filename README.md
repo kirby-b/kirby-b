@@ -5,7 +5,7 @@
 Hi 👋 My name is Brodie and I'm a Software Developer
 <br>I've been coding since my sophomore year of high school and have done the most in Web Development. I am interested in just about everything tech and am trying to learn as much as I can.
 <br>✉️  You can contact me at [kirby.brodie66@gmail.com](mailto:kirby.brodie66@gmail.com)
-<br>🧠  I'm learning Ruby, Godot, and a bit of Machine Learning and Electronics on the side.
+<br>🧠  I'm learning Unreal, Godot, and a bit of Machine Learning and Electronics on the side.
 <br>🚀  I'm currently working on building a Robodog and making a platformer in Godot
 <br>🤝  I'm open to collaborating on Websites/Web apps and Python projects of any kind. I will honestly do any projects though if you are willing to teach or give me time to learn.
 <br>⚡  I may have an addiction to technology
